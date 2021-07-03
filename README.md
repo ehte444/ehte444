@@ -14,10 +14,10 @@ I Read and make creatively professional Websites 🌈
 
 
 
-* 👑   Some GitHub statistical reports:
+<!-- * 👑   Some GitHub statistical reports:
 
 
-[![Ehtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehte444)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehte444)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
