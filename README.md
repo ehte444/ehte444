@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋, I am Ehtesham
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -12,16 +12,15 @@ I Read and make creatively professional Websites 🌈
 * ⛵   2021 Goals : Start with open source contributions.
 * ✍🏻   Planning to start writing an Introductory CS blog of my own.
 
-<details>
+
 
 * 👑   Some GitHub statistical reports:
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehte444&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />  -->
-</p>
 
-</details>
+[![Ehtesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehte444)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
   
 <hr>
 <p align="center">
