@@ -11,6 +11,8 @@ I Read and make creatively professional Websites 🌈
 * 💻   With 2 years' computer science and technology education.
 * ⛵   2021 Goals : Start with open source contributions.
 * ✍🏻   Planning to start writing an Introductory CS blog of my own.
+* 💬   Ask me about Books 📚, Frontend Design and Development issues and CS Problems 👨🏻‍💻
+* 🦾   Find me here [Ehtesham's Portfolio](https://portfolio-bnemxmzld-ehte444.vercel.app/) 
 
 
 
