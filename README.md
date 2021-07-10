@@ -4,11 +4,10 @@
 
 I Read and make creatively professional Websites 🌈    
 
-* 🧐   Interested in full stack. Recent focus on frontend.
+* 🧐   Full-Stack Developer, Recent focus on Front-end
 * 🎓   Bachelor of Engineering in Computer Engineering, CGPA 9.61.
 * 🌱   Currently learning Nodejs, Mongodb and some Philosophy.
 * 📚   Reading more biographies and how the computer works | Current read Devil's Advocate by Karan Thapar.
-* 💻   With 2 years' computer science and technology education.
 * ⛵   2021 Goals : Start with open source contributions.
 * ✍🏻   Planning to start writing an Introductory CS blog of my own.
 * 💬   Ask me about Books 📚, Frontend Design and Development issues and CS Problems 👨🏻‍💻
@@ -26,7 +25,6 @@ I Read and make creatively professional Websites 🌈
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://www.linkedin.com/in/ehtesham-siddiqui-463400195/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/ehte99"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://portfolio-bnemxmzld-ehte444.vercel.app/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
