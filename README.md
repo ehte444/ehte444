@@ -19,16 +19,16 @@ I Read and make creatively professional Websites 🌈
 <table >
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/typescript.svg" width="60"/>
+			<img src="icons/typescript.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/react.png" width="60"/>
+			<img src="icons/react.png" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/nodejs.svg" width="60"/>
+			<img src="icons/nodejs.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/expressjs.png" width="60"/>
+			<img src="icons/expressjs.png" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -41,19 +41,19 @@ I Read and make creatively professional Websites 🌈
 <table >
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/materialui.svg" width="60"/>
+			<img src="icons/materialui.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/bootstrap.svg" width="60"/>
+			<img src="icons/bootstrap.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/vercel.svg" width="60"/>
+			<img src="icons/vercel.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
+			<img src="icons/redux.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
+			<img src="icons/mongodb.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
