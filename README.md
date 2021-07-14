@@ -5,13 +5,13 @@
 I Read and make creatively professional Websites 🌈    
 
 * 🧐   Full-Stack Developer, Recent focus on Front-end
-* 🎓   Bachelor of Engineering in Computer Engineering, CGPA 9.61.
+<!-- * 🎓   Bachelor of Engineering in Computer Engineering, CGPA 9.61. -->
 * 🌱   Currently learning Nodejs, Mongodb and some Philosophy.
 * 📚   Reading more biographies and how the computer works | Current read Devil's Advocate by Karan Thapar.
 * ⛵   2021 Goals : Start with open source contributions.
 * ✍🏻   Planning to start writing an Introductory CS blog of my own.
 * 💬   Ask me about Books 📚, Frontend Design and Development issues and CS Problems 👨🏻‍💻
-* 🦾   Find me here [Ehtesham's Portfolio](https://portfolio-bnemxmzld-ehte444.vercel.app/) 
+<!-- * 🦾   Find me here [Ehtesham's Portfolio](https://portfolio-bnemxmzld-ehte444.vercel.app/)  -->
 
 
 <h3 align="left">Languages and Tools:</h3>
