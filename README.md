@@ -4,9 +4,9 @@
 
 I Read and make creatively professional Websites 🌈    
 
-* 🧐   Full-Stack Developer, Recent focus on Front-end
 <!-- * 🎓   Bachelor of Engineering in Computer Engineering, CGPA 9.61. -->
-* 🌱   Currently learning Nodejs, Mongodb and some Philosophy.
+* 🧐   Full-Stack Developer, Recent focus on Front-end
+* 🌱   Currently learning some Philosophy.
 * 📚   Reading more biographies and how the computer works | Current read Devil's Advocate by Karan Thapar.
 * ⛵   2021 Goals : Start with open source contributions.
 * ✍🏻   Planning to start writing an Introductory CS blog of my own.
