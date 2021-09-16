@@ -28,14 +28,26 @@ I Read and make creatively professional Websites 🌈
 			<img src="icons/nodejs.svg" width="60"/>
 		</td>
 		<td >
+			<img src="icons/nextjs.svg" width="60"/>
+		</td>
+		<td >
 			<img src="icons/expressjs.png" width="60"/>
+		</td>
+		<td >
+			<img src="icons/bash.svg" width="60"/>
+		</td>
+		<td >
+			<img src="icons/framer.png" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
 		<td>TypeScript</td>
 		<td>React</td>
 		<td>Node.js</td>
-    <td>Express.js</td>
+		<td>Next.js</td>
+		<td>Express.js</td>
+		<td>Bash</td>
+		<td>Framer Motion</td>
 	</tr>
 </table>
 <table >
@@ -50,7 +62,13 @@ I Read and make creatively professional Websites 🌈
 			<img src="icons/vercel.svg" width="60"/>
 		</td>
 		<td >
+			<img src="icons/socketio.svg" width="60"/>
+		</td>
+		<td >
 			<img src="icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="icons/s3.svg" width="60"/>
 		</td>
 		<td >
 			<img src="icons/mongodb.svg" width="60"/>
@@ -60,10 +78,13 @@ I Read and make creatively professional Websites 🌈
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
 		<td>Vercel</td>
+		<td>Socket.IO</td>
 		<td>Redux</td>
+		<td>AWS S3</td>
 		<td>MongoDB</td>
 	</tr>
 </table>
+
 
 
 
