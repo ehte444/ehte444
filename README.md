@@ -29,13 +29,10 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>TypeScript</td>
 		<td>React</td>
 		<td>Node.js</td>
 		<td>Next.js</td>
 		<td>Express.js</td>
-		<td>Bash</td>
-		<td>Framer Motion</td>
 	</tr>
 </table>
 <table >
@@ -54,9 +51,6 @@
 		</td>
 		<td >
 			<img src="icons/redux.svg" width="60"/>
-		</td>
-		<td >
-			<img src="icons/s3.svg" width="60"/>
 		</td>
 		<td >
 			<img src="icons/mongodb.svg" width="60"/>
