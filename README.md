@@ -6,9 +6,6 @@
 
 <table >
 	<tr align="center">
-		<td>
-			<img src="icons/typescript.svg" width="60"/>
-		</td>
 		<td >
 			<img src="icons/react.png" width="60"/>
 		</td>
@@ -20,12 +17,6 @@
 		</td>
 		<td >
 			<img src="icons/expressjs.png" width="60"/>
-		</td>
-		<td >
-			<img src="icons/bash.svg" width="60"/>
-		</td>
-		<td >
-			<img src="icons/framer.png" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -62,7 +53,6 @@
 		<td>Vercel</td>
 		<td>Socket.IO</td>
 		<td>Redux</td>
-		<td>AWS S3</td>
 		<td>MongoDB</td>
 	</tr>
 </table>
